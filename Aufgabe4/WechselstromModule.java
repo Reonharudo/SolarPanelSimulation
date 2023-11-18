@@ -1,0 +1,3 @@
+interface WechselstromModule extends Module {
+}
+

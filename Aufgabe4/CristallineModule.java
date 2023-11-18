@@ -1,0 +1,2 @@
+interface CristallineModule extends GleichstromModule {
+}

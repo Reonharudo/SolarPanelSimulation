@@ -1,0 +1,3 @@
+public enum WEATHER_DESC {
+    SUNNY, RAINY, CLOUDY, SNOWY
+}

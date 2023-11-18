@@ -1,0 +1,12 @@
+(Fix) EnvironmentFactor: Fehler: maxheight wird nicht auf > height überprüft
+(Fix) EnvironmentFactor: Fehler: height wird nicht auf > maxHeight überprüft
+(Fix) Environment:  Fehler: Exception wird nicht geworden
+(Fix) Weather:  Fehler: es werden nicht die SET-Methoden von bestimmten Instanzvariablen aufgerufen, wodurch
+              die Vorbedingungen der korrespondierenden Parameter nicht ermittelt werden kann
+
+(Fix) WeatherCourse           /**
+                   FEHLER: als Nachbedingung muss eine exception geworden wenn history keine einträge
+                   vorweist, ansonsten wird eine nicht definierte Rechenoperation e.g Divsion mit 0 durchgeführt
+                   */
+(Fix) PVPanel: Bad-comment
+

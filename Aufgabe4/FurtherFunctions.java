@@ -1,0 +1,2 @@
+interface FurtherFunctions extends Storagebattery {
+}
